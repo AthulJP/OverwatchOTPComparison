@@ -1,6 +1,7 @@
 mkdir SpiderOutput
 mkdir Battletags
 mkdir PlayerData
+mkdir Plots
 virtualenv .
 source ./bin/activate
 pip install --upgrade pip
