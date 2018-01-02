@@ -4,11 +4,15 @@ This works best on Linux systems, but it should work on Windows and Mac too (Exc
 
 Dependencies are:
 
-*R
-*Python
-*Pip
-*Scrapy
-*Hmisc, DescTools, RJsonIO (R packages)
+R
+
+Python
+
+Pip
+
+Scrapy
+
+Hmisc, DescTools, RJsonIO (R packages)
 
 How to use this:
 
