@@ -25,3 +25,5 @@ If you run GetCareerProfiles.py with the Battletags.json file, you will download
 With PlayerStats.py you can extract certain stats from a players profile (Winrate, Skill Rating, etc.), filter players out based on time/games played, provide your own definition of what a onetrick is and label players as such.
 
 With plots.r and automate.r, you can generate the graphs with the winrates, skill ratings and more.
+
+Battletags.json contains a list of battletags of players I used in the comparison and then some. I'll add a link to file with profiles I used for the medium post since data about performance based SR is going to be hard to get after S7 ended.
